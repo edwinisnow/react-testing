@@ -4,7 +4,7 @@ function Footer() {
     return (
         <div>
             <hr/>
-            <span>Customer Service:18000</span>
+            <span>Customer Service:18000-444</span>
         </div>
     )
 }

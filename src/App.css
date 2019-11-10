@@ -1,0 +1,34 @@
+.containter{
+    border: 1px solid grey;
+    padding:10px;
+}
+.product{
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+}
+.product__image-wrapper{
+    overflow: hidden;
+}
+.product__information-wrapper{
+    padding:10px;
+}
+.product__information--description{
+    font-weight:bold;
+}
+.product__information{
+    font-size: 14px;
+}
+
+.button{
+    padding:7px;
+    border-radius:3px;
+    border:0;
+    background-color:#333;
+    color:#fff;
+    font-size:12px;
+    cursor:pointer;
+}
+.button--success{
+    background-color: green;
+}
